@@ -1,0 +1,3 @@
+C:/Users/prutm/CLionProjects/BeyondTheBasics/cmake-build-debug/CMakeFiles/BeyondTheBasics.dir
+C:/Users/prutm/CLionProjects/BeyondTheBasics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prutm/CLionProjects/BeyondTheBasics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
